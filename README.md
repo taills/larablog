@@ -1,3 +1,13 @@
+# Larablog
+
+编码步骤来自于
+
+此视频适合有PHP基础的开发者，作为入门 Laravel 框架的学习资料。
+
+[https://www.bilibili.com/video/BV1VZ4y1V7q3](https://www.bilibili.com/video/BV1VZ4y1V7q3)
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
